@@ -11,6 +11,7 @@ public class Doubt {
 		System.out.println(a);
 		System.out.println(this.a);
 		System.out.println(Doubt.b);
+		System.out.println("Hi");
 	}
 	public static void main(String[] args) {
 		Doubt d = new Doubt();
