@@ -23,5 +23,7 @@ public class Sample {
 		System.out.println(s6);
 		System.out.println(System.identityHashCode(s6));
 		
+		System.out.println("Hi");
+		
 	}
 }
